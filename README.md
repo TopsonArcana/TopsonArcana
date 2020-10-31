@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-New to coding. 
-**Learning**
+New to coding.    
+**Learning**    
 -Python   
 -C#   
 -HTML,CSS,Javascript   
