@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 New to coding. 
 **Learning**
--Python
--C#
--HTML,CSS,Javascript
-**Currently interest**
--Web Development
--Game Development
+-Python   
+-C#   
+-HTML,CSS,Javascript   
+**Currently interest**   
+-Web Development   
+-Game Development   
