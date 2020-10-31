@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+New to coding. 
+**Learning**
+-Python
+-C#
+-HTML,CSS,Javascript
+**Currently interest**
+-Web Development
+-Game Development
