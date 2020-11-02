@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 # I'm Tum , currently Year 1 in Software and Knowledge Engineering (Kasetsart University) ;   
 New to coding.    
-**Learning**    
+<p align="center">**Learning**</p>  
 -Python   
 -C#   
 -HTML,CSS,Javascript   
