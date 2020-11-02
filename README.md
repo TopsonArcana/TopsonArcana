@@ -17,10 +17,12 @@ Here are some ideas to get you started:
 -->
 # I'm Tum , currently Year 1 in Software and Knowledge Engineering (Kasetsart University) ;   
 ## New to coding.    
-<p align="center"><b>**Learning**</b></p>    
-- Python    <br>
-- C#     <br>
-- HTML,CSS,Javascript  <br>
+ <div align="center>
+   <b>**Learning**</b>
+  - Python    <br>
+  - C#     <br>
+  - HTML,CSS,Javascript  <br>
+  </div>
 **Currently interest**     
 -Web Development      
 -Game Development     
