@@ -17,15 +17,14 @@ Here are some ideas to get you started:
 -->
 # I'm Tum , currently Year 1 in Software and Knowledge Engineering (Kasetsart University) ;   
 ## New to coding.    
- <div align="center>
-   <b>**Learning**</b>
-  - Python    <br>
-  - C#     <br>
-  - HTML,CSS,Javascript  <br>
-  </div>
+**Learning**
+  - Python    
+  - C#     
+  - HTML,CSS,Javascript  
+  
 **Currently interest**     
--Web Development      
--Game Development     
+  -Web Development      
+  -Game Development     
 
 ![GIF](https://media0.giphy.com/media/LRxEo2PjNQcvEkXrNt/giphy.gif?cid=ecf05e47ugbxg90jfy3dxo19rtb9v6zf08u42ft8v4tnim16&rid=giphy.gif)  
 **I Can't Save Me GIF By Dreams [Link](https://gph.is/g/aXWK9gP)**
