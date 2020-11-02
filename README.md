@@ -25,4 +25,4 @@ New to coding.
 -Web Development   
 -Game Development   
 
-![Python](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png)
+![GIF](https://media0.giphy.com/media/LRxEo2PjNQcvEkXrNt/giphy.gif?cid=ecf05e47ugbxg90jfy3dxo19rtb9v6zf08u42ft8v4tnim16&rid=giphy.gif)
