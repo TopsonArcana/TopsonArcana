@@ -21,6 +21,7 @@ Here are some ideas to get you started:
   - Python    
   - C#     
   - HTML,CSS,Javascript  
+  - Korean, Japanese
 ---
 **Currently interest**     
   -Web Development      
