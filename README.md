@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 **Currently interest**     
   -Web Development      
   -Game Development (Unity)        
----
+
 ### Spotify Playing 🎧
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21lp3zxbq7zg3gcksbamvo7wy&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 ---
