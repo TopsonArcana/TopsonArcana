@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ## New to coding.    
 **Learning**   
   - Python    
-  - C#     
+  - C#,C++           
   - HTML,CSS,Javascript  
   - Korean, Japanese
 ---
