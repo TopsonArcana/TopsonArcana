@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   - Python    
   - C#,C++           
   - HTML,CSS,Javascript  
-  - Korean, Japanese
+  - Korean, Japanese, Chinese   
 ---
 **Currently interest**     
   -Backend Engineering      
