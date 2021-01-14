@@ -24,8 +24,7 @@ Here are some ideas to get you started:
   - Korean, Japanese, Chinese   
 ---
 **Currently interest**     
-  -Backend Engineering      
-  -Game Development (Unity x Godot)        
+  -Backend Engineering             
   -Competitive Programming
 ### Spotify Playing 🎧
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21lp3zxbq7zg3gcksbamvo7wy&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
