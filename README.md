@@ -20,7 +20,7 @@ Here are some ideas to get you started:
  New to coding.        
  </p>  
    
-<p align="center"><strong>Learning</strong></p>  
+<p style="text-align: center"><strong>Learning</strong></p>  
 <ul align="center">
 <li>Python</li>
 <li>C#,C++</li>
