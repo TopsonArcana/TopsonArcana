@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
  I'm Tum , currently Year 1 in Software and Knowledge Engineering (Kasetsart University) ;   
  New to coding.        
+ </p>
    
 **Learning**   
   - Python    
