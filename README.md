@@ -18,13 +18,15 @@ Here are some ideas to get you started:
 <p align="center">
  I'm Tum , currently Year 1 in Software and Knowledge Engineering (Kasetsart University) ;   
  New to coding.        
- </p>
+ </p>  
    
-**Learning**   
-  - Python    
-  - C#,C++           
-  - HTML,CSS,Javascript  
-  - Korean, Japanese, Chinese   
+<p align="center"><strong>Learning</strong></p>  
+<ul align="center">
+<li>Python</li>
+<li>C#,C++</li>
+<li>HTML,CSS,Javascript</li>
+<li>Korean, Japanese, Chinese</li>
+</ul>  
   
     
 **Currently interest**     
