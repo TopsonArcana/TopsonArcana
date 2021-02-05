@@ -16,13 +16,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  I'm Tum , currently Year 1 in Software and Knowledge Engineering (Kasetsart University) ;   
- New to coding.    
+ New to coding.        
+   
 **Learning**   
   - Python    
   - C#,C++           
   - HTML,CSS,Javascript  
   - Korean, Japanese, Chinese   
----
+  
+    
 **Currently interest**     
   -Backend Engineering             
   -Competitive Programming
