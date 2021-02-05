@@ -20,8 +20,8 @@ Here are some ideas to get you started:
  New to coding.        
  </p>  
    
-<p align="center"><strong>Learning</strong></p>
-<ul align="center">
+<p><strong>Learning</strong></p>
+<ul>
 <li>Python</li>
 <li>C#,C++</li>
 <li>HTML,CSS,Javascript</li>
@@ -31,8 +31,10 @@ Here are some ideas to get you started:
     
 **Currently interest**     
   - Backend Engineering             
-  - Competitive Programming
-### Spotify Playing 🎧
+  - Competitive Programming  
+  
+<div align="center"><strong>Spotify Playing 🎧</strong>
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21lp3zxbq7zg3gcksbamvo7wy&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+</div>
 ---
 
