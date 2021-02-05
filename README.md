@@ -33,7 +33,7 @@ Here are some ideas to get you started:
   - Backend Engineering             
   - Competitive Programming  
   
-<div align="center"><strong>Spotify Playing 🎧</strong></div>
+<p align="center"><strong>Spotify Playing 🎧</strong></p>  
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21lp3zxbq7zg3gcksbamvo7wy&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 ---
