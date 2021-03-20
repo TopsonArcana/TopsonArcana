@@ -23,8 +23,6 @@ Here are some ideas to get you started:
 <p><strong>Learning</strong></p>
 <ul>
 <li>Python</li>
-<li>C#,C++</li>
-<li>HTML,CSS,Javascript</li>
 <li>Korean, Japanese, Chinese</li>
 </ul>  
   
