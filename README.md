@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
- I'm Tum , currently Year 1 in Software and Knowledge Engineering (Kasetsart University) ;   
+ I'm Tum , currently Year 1 in Software and Knowledge Engineering (Kasetsart University) ;  
+ About to take Piscine at 42Bangkok;  
  New to coding.        
  </p>  
    
