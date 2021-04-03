@@ -29,7 +29,6 @@ Here are some ideas to get you started:
     
 **Currently interest**     
   - Backend Engineering             
-  - Competitive Programming  
-   
+      
 
 
