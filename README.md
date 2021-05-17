@@ -26,10 +26,6 @@ Here are some ideas to get you started:
 <li>Python</li>
 <li>Korean, Japanese, Chinese</li>
 </ul>  
-  
-    
-**Currently interest**     
-  - Backend Engineering             
       
 
 
